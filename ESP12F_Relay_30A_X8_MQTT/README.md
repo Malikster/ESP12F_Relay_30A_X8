@@ -1,4 +1,6 @@
 Usage:
+
+
     mosquitto_pub -d -t arduino/simple -m "switch:X:Y"
     
     where:
