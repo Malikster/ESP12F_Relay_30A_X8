@@ -9,3 +9,9 @@ where:
         Y = relay state:
                           0 - OFF
                           1 - ON
+
+TODO:
+
+        publish led status
+               add new topic
+               put led status in string array and publish on new topic
